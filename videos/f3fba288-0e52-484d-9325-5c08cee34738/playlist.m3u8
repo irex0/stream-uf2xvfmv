@@ -18,3 +18,10 @@ playlist5.ts
 playlist6.ts
 #EXTINF:6.750000,
 playlist7.ts
+#EXTINF:5.333333,
+playlist8.ts
+#EXTINF:10.166667,
+playlist9.ts
+#EXTINF:0.750000,
+playlist10.ts
+#EXT-X-ENDLIST
